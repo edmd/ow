@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orbital-witness", "orbital-witness\orbital-witness.csproj", "{68ED1D18-A611-4997-A4F8-37D24AC068DC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orbital-witness.Services", "orbital-witness.Services\orbital-witness.Services.csproj", "{5121A725-85CA-4ED0-950D-795FF37D13EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orbital-witness.Models", "orbital-witness.Models\orbital-witness.Models.csproj", "{7C1ABAD3-FA0C-49E2-826A-6CB12BF05E2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orbital-witness.Tests", "orbital-witness.Tests\orbital-witness.Tests.csproj", "{F6FA114E-3FE4-4538-891E-E5B87B4D8F70}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "orbital-witness.Domain", "orbital-witness.Domain\orbital-witness.Domain.csproj", "{7A3F3DD1-56A0-45A6-A5E3-530BD601AFCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68ED1D18-A611-4997-A4F8-37D24AC068DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68ED1D18-A611-4997-A4F8-37D24AC068DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68ED1D18-A611-4997-A4F8-37D24AC068DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68ED1D18-A611-4997-A4F8-37D24AC068DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5121A725-85CA-4ED0-950D-795FF37D13EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5121A725-85CA-4ED0-950D-795FF37D13EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5121A725-85CA-4ED0-950D-795FF37D13EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5121A725-85CA-4ED0-950D-795FF37D13EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C1ABAD3-FA0C-49E2-826A-6CB12BF05E2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C1ABAD3-FA0C-49E2-826A-6CB12BF05E2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C1ABAD3-FA0C-49E2-826A-6CB12BF05E2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C1ABAD3-FA0C-49E2-826A-6CB12BF05E2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6FA114E-3FE4-4538-891E-E5B87B4D8F70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6FA114E-3FE4-4538-891E-E5B87B4D8F70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6FA114E-3FE4-4538-891E-E5B87B4D8F70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6FA114E-3FE4-4538-891E-E5B87B4D8F70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A3F3DD1-56A0-45A6-A5E3-530BD601AFCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A3F3DD1-56A0-45A6-A5E3-530BD601AFCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A3F3DD1-56A0-45A6-A5E3-530BD601AFCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A3F3DD1-56A0-45A6-A5E3-530BD601AFCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {590DB3AB-74EA-4606-AFBA-9490BC358089}
+	EndGlobalSection
+EndGlobal
